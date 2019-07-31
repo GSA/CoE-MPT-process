@@ -3,7 +3,7 @@
 # CoE MPP
 ## Welcome Guide
 
-The information in this Welcome Guide should give anyone enough information to understand how the CoE MPP works, how someone can participate in the process, and how to replicate it and adapt it for their own purposes. Please give any and all feedback you have through our "[indefinite RFI](https://forms.gle/Lo38qwjTyE7hCPUG7)", which we will never close. Thank you!
+The information in this Welcome Guide should give anyone enough information to understand how the CoE MPP works, how someone can participate in the process, and how to replicate it and adapt it for their own purposes. However, we also included the [Presentations](https://github.com/GSA/CoE-MPP-process/tree/master/Presentations) we've put together as an additional resource. Please give any and all feedback you have through our "[indefinite RFI](https://forms.gle/Lo38qwjTyE7hCPUG7)", which we will never close. Thank you!
 
 ## Introduction
 
