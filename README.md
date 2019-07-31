@@ -66,7 +66,7 @@ Once the Technical SME receives a response that the submission has been received
 These three PALTs will allow the Acquisition Team to measure and improve upon their performance while also allowing Project Teams to set their own expectations related to how long the process itself will take.
 
 #### CoE MPP reviews the need
-The PM and Acquisition Sme will be responsible for reviewing submissions, creating a new card in whatever project management tool the team has settled on, and moving the process forward. The card must be accessible to all 6 members of the two teams. The Acquisition Team may require information related to the project’s development practices and backlog-related processes for the official contract file. This documentation will help mitigate risks associated with administrative as well as technical issues that may arise.
+The PM and Acquisition SME will be responsible for reviewing submissions, creating a new card in whatever project management tool the team has settled on, and moving the process forward. The card must be accessible to all 6 members of the two teams. The Acquisition Team may require information related to the project’s development practices and backlog-related processes for the official contract file. This documentation will help mitigate risks associated with administrative as well as technical issues that may arise.
 
 Once the Acquisition Team has created the card and confirmed need is discrete, appropriately scoped, and contains all the information necessary for an Issue to be posted to the CoE MPP template repository, the Technical SME will be contacted to finalize logistics and timing surrounding the competition.
 
