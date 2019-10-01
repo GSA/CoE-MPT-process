@@ -122,11 +122,11 @@ The PM will gather any questions asked by the contractor community and post them
 #### Reviewing the responses
 The PM will work with the Supervisor and the Technical SME to select the best of the submitted responses. Once the review is completed, an [Award Decision Memo](https://github.com/GSA/CoE-MPP-process/blob/master/Documentation/3-Award-Package/Award-Decision-Memo.md) will be completed by the Acquisition SME, submitted to the Project Team for approval, and once approved, finalized by the PM.
 
-#### Announcing the award
-The PM will use the [Award Announcment Templates](https://github.com/GSA/CoE-MPP-process/blob/master/Documentation/3-Award-Package/Award-Announcement-Templates.md) to post a comment announcing the award, close the Issue, remove the reference to the Issue on the CoE MPP public repo’s main `README.md` file, and email the awardee.
-
 #### Finalizing the repos
 The PM will create [a new folder](https://github.com/gsa/coe-mpp-template/tree/master/yyyy-mm-dd%20User-Story) for the user story in the public repo, add a README.md file, and create another subfolder for [the deliverables](https://github.com/gsa/coe-mpp-template/tree/master/yyyy-mm-dd%20User-Story/Deliverables).
+
+#### Announcing the award
+The PM will use the [Award Announcment Templates](https://github.com/GSA/CoE-MPP-process/blob/master/Documentation/3-Award-Package/Award-Announcement-Templates.md) to post a comment announcing the award, close the Issue, remove the reference to the Issue on the CoE MPP public repo’s main `README.md` file, and email the awardee.
 
 ### 4. Approving deliverables
 #### No kickoff needed
