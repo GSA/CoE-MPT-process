@@ -9,5 +9,5 @@
 This folder contains both PowerPoint and PDF versions of useful presentations related to the CoE MPP. Feel free to reach out to connectcoe@gsa.gov if you'd like a new presentation made for your particular set of circumstances!
 
 * Introduction to the MPT
-   * [PowerPoint](https://github.com/GSA/CoE-MPT-process/blob/master/Presentations/Introduction-to-the-CoE-MPT.pptx)
-   * [PDF](https://github.com/GSA/CoE-MPT-process/blob/master/Presentations/Introduction-to-the-CoE-MPT.pdf)
+   * [PowerPoint](https://github.com/GSA/CoE-MPT-process/blob/master/Presentations/Introduction-to-the-MPT.pptx)
+   * [PDF](https://github.com/GSA/CoE-MPT-process/blob/master/Presentations/Introduction-to-the-MPT.pdf)
