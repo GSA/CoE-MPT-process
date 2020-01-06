@@ -6,7 +6,7 @@
 ## Details
 > Please make `XX` a link to the Issue and remove this line.
 
-* GSA/CoE-MPP Issue [XX](URL)
+* GSA/CoE-MPT Issue [XX](URL)
 * Response due date: MONTH DD, YYYY at noon, eastern time
 * User story: {{User-Story}}
 
