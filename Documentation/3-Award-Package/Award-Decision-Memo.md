@@ -1,6 +1,6 @@
-[CoE Acquisitions](https://github.com/GSA/coe-acquisitions) > [CoE MPP process](https://github.com/GSA/coe-mpp-process/) > [Documentation](https://github.com/GSA/coe-mpp-process/documentation/) > [3 Award Package](https://github.com/GSA/coe-mpp-process/documentation/3-award-package) > Award Decision Memo
+[CoE Acquisitions](https://github.com/GSA/coe-acquisitions) > [MPT process](https://github.com/GSA/coe-mpt-process/) > [Documentation](https://github.com/GSA/coe-mpt-process/documentation/) > [3 Award Package](https://github.com/GSA/coe-mpt-process/documentation/3-award-package) > Award Decision Memo
 
-# CoE MPP | {{User-Story-Title}}
+# MPT | {{User-Story-Title}}
 ## Award Decision Memo
 
 The purpose of this memo is to outline how the decision to award {{User-Story-Title}} to {{Awardee}} was made.
