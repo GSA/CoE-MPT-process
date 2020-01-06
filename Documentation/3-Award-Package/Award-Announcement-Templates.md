@@ -1,6 +1,6 @@
-[CoE Acquisitions](https://github.com/GSA/coe-acquisitions) > [CoE MPP process](https://github.com/GSA/coe-mpp-process/) > [Documentation](https://github.com/GSA/coe-mpp-process/documentation/) > [3 Award Package](https://github.com/GSA/coe-mpp-process/documentation/3-award-package) > Award Announcement Templates
+[CoE Acquisitions](https://github.com/GSA/coe-acquisitions) > [MPT process](https://github.com/GSA/coe-mpt-process/) > [Documentation](https://github.com/GSA/coe-mpt-process/documentation/) > [3 Award Package](https://github.com/GSA/coe-mpt-process/documentation/3-award-package) > Award Announcement Templates
 
-# CoE MPP | {{User-Story-Title}}
+# MPT | {{User-Story-Title}}
 ## Award Announcement Templates
 
 ## Award issued comment
@@ -19,7 +19,7 @@ Congratulations! We’re happy to inform you that you have been issued the award
 
 Please remember to fork the repo, place your files in the [Deliverables subfolder](URL), and submit a merge request when you are ready for your work to be reviewed. As a reminder, it must meet the objectives to be accepted.
 
-If you have any questions, please reach out to me, the CoE MPP project manager, {{PM-Name}} at {{PM-Email}}, copying {{SME-Name}} at {{SME-Email}} from {{Project-Team}}.
+If you have any questions, please reach out to me, the project manager, {{PM-Name}} at {{PM-Email}}, copying {{SME-Name}} at {{SME-Email}} from {{Project-Team}}.
 
 Congratulations once again and we look forward to working with you!
 
