@@ -1,6 +1,6 @@
-[CoE Acquisitions](https://github.com/GSA/coe-acquisitions) > [CoE MPP process](https://github.com/GSA/coe-mpp-process/) > [Documentation](https://github.com/GSA/coe-mpp-process/documentation/) > [2 Issue Package](https://github.com/GSA/coe-mpp-process/documentation/2-issue-package) > Issue Questions
+[CoE Acquisitions](https://github.com/GSA/coe-acquisitions) > [MPT process](https://github.com/GSA/coe-mpt-process/) > [Documentation](https://github.com/GSA/coe-mpt-process/documentation/) > [2 Issue Package](https://github.com/GSA/coe-mpt-process/documentation/2-issue-package) > Issue Questions
 
-# CoE MPP | {{User-Story-Title}}
+# MPT | {{User-Story-Title}}
 ## Issue Questions
 
 ## Details
