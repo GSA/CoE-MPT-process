@@ -1,6 +1,6 @@
-[CoE Acquisitions](https://github.com/GSA/coe-acquisitions) > [CoE MPP process](https://github.com/GSA/coe-mpp-process/) > [Documentation](https://github.com/GSA/coe-mpp-process/documentation/) > [1 Procurement Package](https://github.com/GSA/coe-mpp-process/documentation/1-procurement-package) > Market Research Report
+[CoE Acquisitions](https://github.com/GSA/coe-acquisitions) > [MPT process](https://github.com/GSA/coe-mpt-process/) > [Documentation](https://github.com/GSA/coe-mpt-process/documentation/) > [1 Procurement Package](https://github.com/GSA/coe-mpp-process/documentation/1-procurement-package) > Market Research Report
 
-# CoE MPP | {{User-Story-Title}}
+# MPT | {{User-Story-Title}}
 ## Market Research Report
 
 Though not required, the following market research report has been developed in accordance with Federal Acquisition Regulation (FAR) Part [10](https://www.acquisition.gov/content/part-10-market-research) so that the team ensures maximum compliance with acquisition best-practices.
@@ -10,7 +10,7 @@ Though not required, the following market research report has been developed in 
 > Please replace this line with two or three sentences about the Project Team and the background of the project the user story related to. An example is: {{Project-Team}} has been tasked with X, Y, and Z. As part of those efforts, {{Project-Team}} has developed A. In developing A, the need for B arose. B was captured in the user story titled "{{User-Story-Title}}".
 
 ### The user story/stories
-> Please replace this line with the actual user story or user stories that are the subject of this MPP buy.
+> Please replace this line with the actual user story or user stories that are the subject of this MPT buy.
 
 ### Previous acquisition history
 There is no previous acquisition history, as this need is a unique and distinct user story/user stories.
@@ -46,7 +46,7 @@ There is no previous acquisition history, as this need is a unique and distinct 
 Finally, the results of the market research, as outlined above, has allowed {{Project-Team}} to determine that the government’s needs can be met through an offering customarily available in the commercial marketplace, without any modifications.
 
 ### Sources
-Due to the fact {{User-Story-Title}} can be completed within a sprint, is unique and discrete, and fits within the micro-purchase threshold, the government’s use of the CoE MPP will allow for the most cost effective and technically capable contractors to propose and provide a solution. This will allow {{Project-Team}} to obtain bids from a wide variety of contractors, espousing Full and Open Competition with No Set-Aside Used. Due to the potential value of an award for {{User-Story-Title}}, it is uniquely designed to be completely accessible to small and disadvantaged businesses.
+Due to the fact {{User-Story-Title}} can be completed within a sprint, is unique and discrete, and fits within the micro-purchase threshold, the government’s use of the MPT will allow for the most cost effective and technically capable contractors to propose and provide a solution. This will allow {{Project-Team}} to obtain bids from a wide variety of contractors, espousing Full and Open Competition with No Set-Aside Used. Due to the potential value of an award for {{User-Story-Title}}, it is uniquely designed to be completely accessible to small and disadvantaged businesses.
 
 ### Price
 Using the reasoning outlined in the independent government cost estimate (IGCE), {{User-Story-Title}}, the estimated cost is $VALUE.00. This estimate is also the fair market value (FMV) for such a requirement.
