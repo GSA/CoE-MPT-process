@@ -1,9 +1,8 @@
-[CoE Acquisitions](https://github.com/GSA/coe-acquisitions) > [CoE MPP process](https://github.com/GSA/coe-mpp-process/) > [Documentation](https://github.com/GSA/coe-mpp-process/documentation/) > [1 Procurement Package](https://github.com/GSA/CoE-MPP-process/blob/master/Documentation/1-Procurement-Package/) > Approval Email Template
+[CoE Acquisitions](https://github.com/GSA/coe-acquisitions) > [MPT process](https://github.com/GSA/coe-mpt-process/) > [Documentation](https://github.com/GSA/coe-mpt-process/documentation/) > [1 Procurement Package](https://github.com/GSA/CoE-MPT-process/blob/master/Documentation/1-Procurement-Package/) > Approval Email Template
 
-# CoE MPP Documentation
-## Approval Email Template
+# Approval Email Template
 
-This template should be used to obtain Supervisor and Finance Office approval, both of which will be needed for posting an Issue to the CoE MPP.
+This template should be used to obtain Supervisor and Finance Office approval, both of which will be needed for posting an Issue to a MPT repo.
 
 ## Supervisor and Finance Office approval
 
